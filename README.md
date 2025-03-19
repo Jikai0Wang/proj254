@@ -1,6 +1,8 @@
 # OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure
 Paper: [https://arxiv.org/abs/2406.17276](https://arxiv.org/abs/2406.17276)
 
+OPT-Tree has been published on Transactions of the Association for Computational Linguistics  [(TACL)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00735/128189).  
+
 ## Contents
 - [Introduction](#Introduction)
 - [Installation](#installation)
